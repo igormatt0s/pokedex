@@ -25,3 +25,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+
+Referência de modelo: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa2tGMkF0MzFTdVQtWVA1UVEtX3NMVEVYeUZXZ3xBQ3Jtc0ttRzVDUnRSWV8tZm5SOXJjTEpJU0ZxcFJXbHZwX1cxNUhDMFk1WlBJMnhudEFCQm5HVDBEUi1RbWxyVWFTYk9ZMExxUU9IZG83RElDZlZxS1FKTmlscDZTdEJNa2dhb3lnYXlYVzE4OEpHTTdzNmdCOA&q=https%3A%2F%2Fwww.figma.com%2Ffile%2FAZ6mvD0UbYSqVBVoSIptu1%2FPokedesk%3Fnode-id%3D0%253A1&v=UhOcUII_5PU
+
+Referências de animações CSS: https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbVNpOGVhNXVJNzdxMFFLdE8zTnktUmdxMVVmQXxBQ3Jtc0tuNmR4T3M2OWU2cmhHbGp5bVBMODF1STBUeDVadk1PM3E1WFdQcHd6bU84aFZEX0k2TkdlRkhQdDdodF9GQ0VPN3VkUlZucGI3d2Rvc3Z6LXFoYms3Z190UWVhRlBfOEhOXzJMdE5MTWJIdVgwSGRNaw&q=https%3A%2F%2Fwww.theappguruz.com%2Ftag-tools%2Fweb%2FCSSAnimations%2F&v=UhOcUII_5PU
